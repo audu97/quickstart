@@ -1,0 +1,7 @@
+name: quickstart
+runtime: go
+description: first go pulumi program
+config:
+  pulumi:tags:
+    value:
+      pulumi:template: aws-go
